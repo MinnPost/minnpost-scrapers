@@ -2,6 +2,10 @@
 
 Scrapers created on ScraperWiki, versioned here for backup purposes.
 
+## License
+
+Code that is put on ScraperWiki falls under the GNU General Public License.  See [ScraperWiki's terms and conditions](https://scraperwiki.com/terms_and_conditions/).
+
 ## Sources
 
 A lot of these scrapers were created by Alan and can find them on [Alan's ScraperWiki page](https://scraperwiki.com/profiles/zzolo/).
